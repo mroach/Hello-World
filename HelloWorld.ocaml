@@ -1,0 +1,10 @@
+(* install ocaml and run at a shell:
+
+$ ocaml HelloWorld.ocaml
+
+*)
+
+let message = "Hello World" in
+
+print_endline message
+;;
